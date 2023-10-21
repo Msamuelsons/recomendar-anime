@@ -16,7 +16,7 @@ Para saber mais sobre o Surprise, acesse [Surprise](https://surpriselib.com/).
 - Jupyter Notebook
 - Biblioteca scikit-surprise
 - Conjunto de dados de animes
-- ou -
+  ou
 - [Google Colab](https://colab.research.google.com/).
 
 ## Carregamento dos Dados
