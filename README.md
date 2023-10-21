@@ -1,5 +1,7 @@
 # Projeto de Recomendação de Animes usando a Biblioteca Surprise
 
+![Poster animes](https://storage.googleapis.com/kaggle-datasets-images/571/1094/c633ae058ddaa59f43649caac1748cf4/dataset-cover.png)
+
 Este projeto implementa um modelo de recomendação de animes com base nas preferências e histórico de visualização do usuário. A biblioteca Surprise, amplamente utilizada para sistemas de recomendação, é usada aqui, e diversos algoritmos de filtragem colaborativa são implementados para gerar recomendações personalizadas.
 
 ## Visão Geral
