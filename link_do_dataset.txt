@@ -1,0 +1,3 @@
+Base da dado utilizada: https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database;
+
+Basta baixar e extrair o dataset e carregar os 2 arquivos no colab ou jupyter notebook
